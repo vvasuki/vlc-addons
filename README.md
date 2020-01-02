@@ -6,7 +6,7 @@ This addon is published at [videolan](https://addons.videolan.org/p/1344170/) wi
 #### Description (possibly out of sync with videolan page)
 This is a modification of https://addons.videolan.org/p/1154080/ . The original author seems incommunicado, hence submitting this separate plugin. Please submit pull requests and issues at https://raw.githubusercontent.com/vvasuki/vlc-addons/master/lua-addons/playlist_youtube.luac .
 
-escription:
+Description:
 
 Import a youtube video / playlist into VLC.
 
