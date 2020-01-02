@@ -3,7 +3,7 @@
 
 This addon is published at [videolan](https://addons.videolan.org/p/1344170/) with the below description.
 
-#### Description
+#### Description (possibly out of sync with videolan page)
 This is a modification of https://addons.videolan.org/p/1154080/ . The original author seems incommunicado, hence submitting this separate plugin. Please submit pull requests and issues at https://raw.githubusercontent.com/vvasuki/vlc-addons/master/lua-addons/playlist_youtube.luac .
 
 escription:
@@ -14,11 +14,11 @@ Import a youtube video / playlist into VLC.
 INSTALLATION:
 - Download https://github.com/vvasuki/vlc-addons/blob/master/lua-addons/playlist_youtube.luac or use the Download button (Some browser (Chrome...) may change the file extension for ".txt" instead of ".luac", so make sure you choose "All extensions" in the dialog box when you save the file on your computer.)
 - put the file in the vlc /lua/playlist folder, by default (create directories if they don't exist):
-* Windows (all users): %ProgramFiles%VideoLANVLCluaplaylist
-* Windows (current user): %APPDATA%vlcluaplaylist
-* Linux (all users): /usr/lib/vlc/lua/playlist/
-* Linux (current user): ~/.local/share/vlc/lua/playlist/
-* Mac OS X (all users): /Applications/VLC.app/Contents/MacOS/share/lua/playlist/
+  * Windows (all users): %ProgramFiles%/VideoLAN/VLC/lua/playlist
+  * Windows (current user): %APPDATA%/vlc/lua/playlist
+  * Linux (all users): /usr/lib/vlc/lua/playlist/
+  * Linux (current user): ~/.local/share/vlc/lua/playlist/
+  * Mac OS X (all users): /Applications/VLC.app/Contents/MacOS/share/lua/playlist/
 
 
 USAGE:
