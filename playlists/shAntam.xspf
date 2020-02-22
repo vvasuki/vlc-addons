@@ -1,0 +1,187 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<playlist xmlns="http://xspf.org/ns/0/" xmlns:vlc="http://www.videolan.org/vlc/playlist/ns/0/" version="1">
+	<trackList>
+		<track>
+			<location>https://r5---sn-cvh7knek.googlevideo.com/videoplayback?expire=1576494037&amp;ei=dQ_3XfuXM9rK3LUPvaWQoA0&amp;ip=103.130.189.183&amp;id=o-ADUdc1p9ccNYJRqXBCr9aYai7xgncy31P7hu8dMB5aj2&amp;itag=18&amp;source=youtube&amp;requiressl=yes&amp;mm=31%2C29&amp;mn=sn-cvh7knek%2Csn-cvh76ned&amp;ms=au%2Crdu&amp;mv=m&amp;mvi=4&amp;pl=24&amp;initcwndbps=1143750&amp;mime=video%2Fmp4&amp;gir=yes&amp;clen=9899627&amp;ratebypass=yes&amp;dur=218.685&amp;lmt=1429612169584542&amp;mt=1576472317&amp;fvip=5&amp;fexp=23842630&amp;c=WEB&amp;sparams=expire%2Cei%2Cip%2Cid%2Citag%2Csource%2Crequiressl%2Cmime%2Cgir%2Cclen%2Cratebypass%2Cdur%2Clmt&amp;lsparams=mm%2Cmn%2Cms%2Cmv%2Cmvi%2Cpl%2Cinitcwndbps&amp;lsig=AHylml4wRAIgSn_sttlOcDXvmqxsPo2_9hYo-27B3PP8n9h7MuBwrPkCIC7JR5W8fsjMvjfK9szmL9antJMLJ_PxaJ6y4KOOhAcR&amp;sig=ALgxI2wwRAIgAhg0ejtKcunoXmFa_ZfwH-KZHPAXUqGxGdX58Y7LlT0CIHfwJyeg8tYDG0if0nV2RKVr0NbOILN9lPpQn1wYCSG2</location>
+			<title>Beethoven - Für Elise</title>
+			<creator>Matthew Vasquez</creator>
+			<annotation>Ivo Pogorelich plays Beethoven&#39;s &quot;Fur elise&quot;. Video messes up in some spots, but it&#39;s nothing too bad.&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;/redirect?event=video_description&amp;v=LQTTFUtMSvQ&amp;redir_token=l0PYOXt82j0XKrAl4omQMzFPqp18MTU3NjU1ODgzOEAxNTc2NDcyNDM4&amp;q=https%3A%2F%2Fsoundcloud.com%2Fmattzart&quot; class=&quot;yt-uix-sessionlink  &quot; data-target-new-window=&quot;True&quot; data-sessionlink=&quot;itct=CC0Q6TgYACITCPrQob2xueYCFT8CtwAdZsMLdUj0lbHa1OK0gi0&quot; data-url=&quot;/redirect?event=video_description&amp;v=LQTTFUtMSvQ&amp;redir_token=l0PYOXt82j0XKrAl4omQMzFPqp18MTU3NjU1ODgzOEAxNTc2NDcyNDM4&amp;q=https%3A%2F%2Fsoundcloud.com%2Fmattzart&quot; target=&quot;_blank&quot; rel=&quot;nofollow noopener&quot;&gt;https://soundcloud.com/mattzart&lt;/a&gt; Follow me on Soundcloud/Tumblr/Facebook to keep up-to-date with good music and good vibes.&lt;br /&gt;&lt;a href=&quot;/redirect?event=video_description&amp;v=LQTTFUtMSvQ&amp;redir_token=l0PYOXt82j0XKrAl4omQMzFPqp18MTU3NjU1ODgzOEAxNTc2NDcyNDM4&amp;q=https%3A%2F%2Fwww.facebook.com%2FMattzart&quot; class=&quot;yt-uix-sessionlink  &quot; data-target-new-window=&quot;True&quot; data-sessionlink=&quot;itct=CC0Q6TgYACITCPrQob2xueYCFT8CtwAdZsMLdUj0lbHa1OK0gi0&quot; data-url=&quot;/redirect?event=video_description&amp;v=LQTTFUtMSvQ&amp;redir_token=l0PYOXt82j0XKrAl4omQMzFPqp18MTU3NjU1ODgzOEAxNTc2NDcyNDM4&amp;q=https%3A%2F%2Fwww.facebook.com%2FMattzart&quot; target=&quot;_blank&quot; rel=&quot;nofollow noopener&quot;&gt;https://www.facebook.com/Mattzart&lt;/a&gt;</annotation>
+			<info>https://www.youtube.com/watch?v=LQTTFUtMSvQ</info>
+			<image>https://i.ytimg.com/vi/LQTTFUtMSvQ/hqdefault.jpg</image>
+			<duration>218685</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>0</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://www.youtube.com/watch?v=t6WlkcGtuDI</location>
+			<title>Wedding March by Mendelssohn</title>
+			<annotation>I am sure most of you have heard of this! lol Enjoy this amazing work part of the incidental music Midsummer Night&#39;s Dream by Mendelssohn! :DSlovak Philharmonic OrchestraOliver Dohnanyi</annotation>
+			<info>https://www.youtube.com/playlist?list=PL81E939CC4A37CC43</info>
+			<image>https://i.ytimg.com/vi/t6WlkcGtuDI/default.jpg</image>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>1</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://www.youtube.com/watch?v=VTqlLKBKFhg</location>
+			<title>Herbert von Karajan conducts The Blue Danube Waltz</title>
+			<annotation>Herbert von Karajan conducts The Blue Danube Waltz by johann strauss jr.</annotation>
+			<info>https://www.youtube.com/playlist?list=PL81E939CC4A37CC43</info>
+			<image>https://i.ytimg.com/vi/VTqlLKBKFhg/default.jpg</image>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>2</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://www.youtube.com/watch?v=VNK9lJA7-ms</location>
+			<title>Mahaganapathim Manasa MDR Natta</title>
+			<annotation> </annotation>
+			<info>https://www.youtube.com/playlist?list=PL81E939CC4A37CC43</info>
+			<image>https://i.ytimg.com/vi/VNK9lJA7-ms/default.jpg</image>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>3</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://www.youtube.com/watch?v=VOnn2b0MVbc</location>
+			<title>Chembai Swami &amp; Yesudas in concert on Dasettan&#39;s 33rd birthday</title>
+			<annotation>Very rare recording of a public performance by Chembai Vaidyanatha Bhagavathar and K. J. Yesudas some 39 years ago, on 10 January 1973, the 33rd birthday of our Dasettan</annotation>
+			<info>https://www.youtube.com/playlist?list=PL81E939CC4A37CC43</info>
+			<image>https://i.ytimg.com/vi/VOnn2b0MVbc/default.jpg</image>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>4</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://www.youtube.com/watch?v=Myk4840fs-8</location>
+			<title>Nawang Khechog - Peace Through Kindness from Journey To The Heart DVD</title>
+			<annotation>Buy this DVD: https://domorecords-store.com/products/dvd-journey-to-the-heart-vol-1-2002-by-various-artistsNawang Khechog from Journey To The Heart DVDBuy DVDhttp://www.domocart.com/domo-store/index.php?main_page=product_info&amp;cPath=4&amp;products_id=101http://www.domomusicgroup.com/index.phpWelcome music aficionados everywhere to the many flavors and endless colors of Journey to the Heart.  This is the first in a series of music intended to heal the Mind, Body &amp; Spirit in these challenging times we face and hope to bring you closer to your peaceful heart. Soaring melodic flute lines and lush orchestrations begin the journey with Kitaro&#39;s &quot;Planet&quot; from his critically acclaimed Mandala album.  Other highlights include Joseph Rojo&#39;s flowing piano composition &quot;Search&quot; from his popular Nocturnal Afternoon release and Primal Instincts&#39; inspired theme &quot;Spirit Within&quot; from the jungle-driven full-length CD Heart of the Rainforest.  Wooden flute and melodic chanting make Nawang Khechog&#39;s &quot;Peace Through Kindness&quot; a unique addition while violinist Stephen Kindler delivers a hauntingly delightful tune from his Paradise Lost work, &quot;Portal of Hanub-ku.&quot;Hailed as a prodigy with few peers, David Eggar&#39;s mastery of the keyboard shines brightly on the song &quot;Rune&quot; from his debut release, Serenity.  With a wide range of cavalcade artists that include Shinji, Yu-Xiao Guang, Unu Mondo, and Debussy, listeners will be taken on a magical trek through a myriad of tonal colors.  And finally, this collection closes with Kitaro&#39;s &quot;Stream&quot; from his Grammy Award winning album Thinking of You.We invite you to take this first of many Journeys to the Heart and enjoy this eclectic collection that no only compels but also nourishes.  This series is also available on compact disc.Region: Region AllSong List01.  Planet / Kitaro 02.  Sleeping Woman / Luis Perez 03.  Search / Rojo 04.  Spirit Within / Primal Instinct 05.  Peace Throughh Kindness / Nawang Khechog 06.  Portal Of Hunab-Ku / Steven Kindler 07.  Claire De Lune / Debussy 08.  Dawn Of A Forest / Shinji 09.  40800 / Yu-Xiao Guang 10.  Lakota / Unu Mondo 11.  Rune / Dave Eggar 12.  Stream / KitaroApproximate Running Time: 58 Minutes</annotation>
+			<info>https://www.youtube.com/playlist?list=PL81E939CC4A37CC43</info>
+			<image>https://i.ytimg.com/vi/Myk4840fs-8/default.jpg</image>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>5</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://www.youtube.com/watch?v=mLXQltR7vUQ</location>
+			<title>Ennio Morricone - For A Few Dollars More [HQ]</title>
+			<annotation>Official theme song for &quot;For A Few Dollars More&quot; by Ennio Morricone.Keep it trippy cowboy warriors!I do not own the image or audio in this video.</annotation>
+			<info>https://www.youtube.com/playlist?list=PL81E939CC4A37CC43</info>
+			<image>https://i.ytimg.com/vi/mLXQltR7vUQ/default.jpg</image>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>6</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://www.youtube.com/watch?v=28DB8iR9DJo</location>
+			<title>Lalita Lavanga -- Dr. M. Balamuralikrishna</title>
+			<annotation>Dr. M. Balamuralikrishna sings Jayadeva&#39;s 3rd Ashtapadi in the Dvijavanti raga - uploaded via http://www.mp32u.net/</annotation>
+			<info>https://www.youtube.com/playlist?list=PL81E939CC4A37CC43</info>
+			<image>https://i.ytimg.com/vi/28DB8iR9DJo/default.jpg</image>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>7</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://www.youtube.com/watch?v=QZPiiya9Fxc</location>
+			<title>Mukundamala || P.B. Sreenivas || Sanskrit Devotional Jukebox</title>
+			<annotation>Listen to Mukundamala by P.B. Sreenivas .Click here to Share on Facebook : http://on.fb.me/1RZG0ZL................................................................................................................00:10 MukundamalaAlbum Name: MukundamalaArtist: P. B. Sreenivas ....................................................................................................................Click Here To -Exclusive Telugu Songs : http://www.youtube.com/AdityamusicHD Movies : http://www.youtube.com/AdityamoviesExclusive Full Song with Lyrics : https://www.youtube.com/AdityaMusicNM...Devotional Albums : http://www.youtube.com/AdityaDevotionalKids Videos : http://www.youtube.com/AdityaKidsKannada Songs : http://www.youtube.com/kannadasongsEnjoy and Stay connect with us►Subscribe us for Exclusive Carnatic Videos - http://bit.ly/1z3YVGu►Like us: http://www.facebook.com/devotionalNcl...►Follow us : http://www.twitter.com/adityamusic►Circle us : https://plus.google.com/+carnaticclas...SUBSCRIBE Aditya Music Channels for unlimited entertainment :►For Latest Music :http://bit.ly/adityamusic►For New Movies in HD : http://www.youtube.com/Adityamovies►For Songs with Lyrics : https://www.youtube.com/AdityaMusicNM...►For Devotional Songs : http://www.youtube.com/AdityaDevotional►For Kids Educational : http://www.youtube.com/AdityaKids© 2015 Aditya Music India Pvt. Ltd.</annotation>
+			<info>https://www.youtube.com/playlist?list=PL81E939CC4A37CC43</info>
+			<image>https://i.ytimg.com/vi/QZPiiya9Fxc/default.jpg</image>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>8</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://www.youtube.com/watch?v=GF3eKnEaQY0</location>
+			<title>What A Wonderful World   Louis Armstrong legendado</title>
+			<annotation>[CDATA[]]</annotation>
+			<info>https://www.youtube.com/playlist?list=PL81E939CC4A37CC43</info>
+			<image>https://i.ytimg.com/vi/GF3eKnEaQY0/default.jpg</image>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>9</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://www.youtube.com/watch?v=FSrmtJZqZVg</location>
+			<title>Jaane Do - Agosh</title>
+			<annotation>Another hit song from the band Agosh after Paisa ...Enjoy the classic ...</annotation>
+			<info>https://www.youtube.com/playlist?list=PL81E939CC4A37CC43</info>
+			<image>https://i.ytimg.com/vi/FSrmtJZqZVg/default.jpg</image>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>10</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://www.youtube.com/watch?v=-Z9PhUI5oUE</location>
+			<title>The Wings (Native American Music)</title>
+			<annotation>Join ushttps://www.facebook.com/NativeAmericanMusic1</annotation>
+			<info>https://www.youtube.com/playlist?list=PL81E939CC4A37CC43</info>
+			<image>https://i.ytimg.com/vi/-Z9PhUI5oUE/default.jpg</image>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>11</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://www.youtube.com/watch?v=AZvrqbrBxt8</location>
+			<title>SANSKRIT SONG | The Wonder of Sanskrit</title>
+			<annotation>Surabhāratī Suramyā A song about the delightful nature of the Sanskrit LanguageThis is what it means:&quot;The Language of the gods is beautiful, this is a beautiful garland of Vedas and beautiful sayings, it is the origin of 100 scriptures and sutras, great Rishis thought it, and the nature of this language is such that it appeals to the heart of the people. It is divine and blossomed here, it is incomparable like the gods, praised in the three worlds, it is the greatness of India, and in the world its greatness arose, it is very sacred, it is immeasurable, blessed with all good qualities, respected by all scholars and one should serve it for one&#39;s welfare&quot;Soothing Sanskrit Songs here: http://store.cdbaby.com/cd/gabriellaburnel11</annotation>
+			<info>https://www.youtube.com/playlist?list=PL81E939CC4A37CC43</info>
+			<image>https://i.ytimg.com/vi/AZvrqbrBxt8/default.jpg</image>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>12</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://www.youtube.com/watch?v=6PDsZzwCj3o</location>
+			<title>Sanskrit Song | Anandamayi | MADE OF BLISS</title>
+			<annotation>Live looping of the Sanskrit words Anandamayi- made of blissCaitanyamayi- made of consciousnessSatyamai- made of truth Parame- O Supreme</annotation>
+			<info>https://www.youtube.com/playlist?list=PL81E939CC4A37CC43</info>
+			<image>https://i.ytimg.com/vi/6PDsZzwCj3o/default.jpg</image>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>13</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://www.youtube.com/watch?v=pvChhPRc4VU</location>
+			<title>Sethu Saamam</title>
+			<annotation>Sethu Saamam recitation by U.VE. Lakshmi Narasimhan, Ram Prasad S/O U.VE T.K Devanathachar Saama Veda Vidwan</annotation>
+			<info>https://www.youtube.com/playlist?list=PL81E939CC4A37CC43</info>
+			<image>https://i.ytimg.com/vi/pvChhPRc4VU/default.jpg</image>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>14</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://www.youtube.com/watch?v=uDd3iupKUyI</location>
+			<title>SANSKRIT SONG from The Mārkaṇḍeya Purāṇa</title>
+			<annotation>Madālasā sings to her son (composed in Raag Kafi)This song was a commission from the School of Practical Philosophy in Australia. Sanskrit Text:शुद्धोसि बुद्धोसि निरँजनोऽसिसँसारमाया परिवर्जितोऽसिसँसारस्वप्नँ त्यज मोहनिद्राँमँदालसोल्लपमुवाच पुत्रम्।शुद्धोऽसि रे तात न तेऽस्ति नामकृतँ हि तत्कल्पनयाधुनैव।पच्चात्मकँ देहँ इदँ न तेऽस्तिनैवास्य त्वँ रोदिषि कस्य हेतो॥न वै भवान् रोदिति विक्ष्वजन्माशब्दोयमायाध्य महीश सूनूम्।विकल्पयमानो विविधैर्गुणैस्तेगुणाश्च भौताः सकलेन्दियेषु॥भूतनि भूतैः परिदुर्बलानिवृद्धिँ समायाति यथेह पुँसः।अन्नाम्बुपानादिभिरेव तस्मात्न तेस्ति वृद्धिर् न च तेस्ति हानिः॥त्वम् कँचुके शीर्यमाणे निजोस्मिन्तस्मिन् देहे मूढताँ मा व्रजेथाः।शुभाशुभौः कर्मभिर्देहमेतत्मृदादिभिः कँचुकस्ते पिनद्धः॥तातेति किँचित् तनयेति किँचित्अँबेति किँचिद्धयितेति किँचित्।ममेति किँचित् न ममेति किँचित्त्वम् भूतसँघँ बहु म नयेथाः॥सुखानि दुःखोपशमाय भोगान्सुखाय जानाति विमूढचेताः।तान्येव दुःखानि पुनः सुखानिजानाति विद्धनविमूढचेताः॥यानँ चित्तौ तत्र गतश्च देहोदेहोपि चान्यः पुरुषो निविष्ठः।ममत्वमुरोया न यथ तथास्मिन्देहेति मात्रँ बत मूढरौष।And here is the Sanskrit in Transliteration so you can sing along:śuddhosi buddhosi niraɱjano&#39;si saɱsāramāyā parivarjito&#39;si saɱsārasvapnaɱ tyaja mohanidrāɱ maɱdālasollapamuvāca putram|shuddhosi buddhosi niranjano&#39;si samsaramaya parivarjito&#39;si samsarasvapnam tyaja mohanidram mandalasollapamuvacha putram|￼śuddho&#39;si re tāta na te&#39;sti nāma kṛtaɱ hi tatkalpanayādhunaiva| paccātmakaɱ dehaɱ idaɱ na te&#39;sti naivāsya tvaɱ rodiṣi kasya heto||shuddho&#39;si re tata na te&#39;sti nama kritam hi tatkalpanayadhunaiva| pachchatmakam deham idam na te&#39;sti naivasya tvam rodishi kasya heto||na vai bhavān roditi vikṣvajanmā śabdoyamāyādhya mahīśa sūnūm| vikalpayamāno vividhairguṇaiste guṇāśca bhautāḥ sakalendiyeṣu||na vai bhavan roditi vikshvajanma shabdoyamayadhya mahisha sunum| vikalpayamano vividhairgunaiste gunascha bhautah sakalendiyeshu||bhūtani bhūtaiḥ paridurbalāni vṛddhiɱ samāyāti yatheha puɱsaḥ| annāmbupānādibhireva tasmātna testi vṛddhir na ca testi hāniḥ||bhutani bhutaih paridurbalani￼vriddhim samayati yatheha pumsah| annambupanadibhireva tasmatna testi vriddhir na cha testi hanih|| tvam kaɱcuke śīryamāṇe nijosmin tasmin dehe mūḍhatāɱ mā vrajethāḥ| śubhāśubhauḥ karmabhirdehametat mṛdādibhiḥ kaɱcukaste pinaddhaḥ||tvam kamchuke shiryamane nijosmin tasmin dehe mudhatam ma vrajethah| shubhashubhauh karmabhirdehametat mridadibhih kamchukaste pinaddhah|| tāteti kiɱcit tanayeti kiɱcitaɱbeti kiɱciddhayiteti kiɱcit|mameti kiɱcit na mameti kiɱcittvam bhūtasaɱghaɱ bahu ma nayethāḥ||tateti kimchit tanayeti kimchitambeti kimchiddhayiteti kimchit| mameti kimchit na mameti kimchit tvam bhutasamgham bahu ma nayethah||sukhāni duḥkhopaśamāya bhogān sukhāya jānāti vimūḍhacetāḥ| tānyeva duḥkhāni punaḥ sukhāni jānāti viddhanavimūḍhacetāḥ||sukhani duhkhopashamaya bhogan sukhaya janati vimudhachetah| tanyeva duhkhani punah sukhani janati viddhanavimudhachetah||yānaɱ cittau tatra gataśca deho dehopi cānyaḥ puruṣo niviṣṭhaḥ| mamatvamuroyā na yatha tathāsmin deheti mātraɱ bata mūḍharauṣa|yanam chittau tatra gatascha deho dehopi chanyah purusho nivishthah| mamatvamuroya na yatha tathasmin deheti matram bata mudharausha|See the story here: https://practicalphilosophy.org.au/extras/mada-lasa/</annotation>
+			<info>https://www.youtube.com/playlist?list=PL81E939CC4A37CC43</info>
+			<image>https://i.ytimg.com/vi/uDd3iupKUyI/default.jpg</image>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>15</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://www.youtube.com/watch?v=-sRQtVxdrH8</location>
+			<title>Bhavayami raghu ramam-Ks chitra</title>
+			<annotation>bhAvayAmi raghurAmam --- is a soul-stirring rAgamAlika epitomizing the entire story of the epic rAmAyaNam.  This beautiful song, in chaste Sanskrit, was originally composed by mahArAjA svAti tirunAL,</annotation>
+			<info>https://www.youtube.com/playlist?list=PL81E939CC4A37CC43</info>
+			<image>https://i.ytimg.com/vi/-sRQtVxdrH8/default.jpg</image>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>16</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://www.youtube.com/watch?v=-S2ddsO73Bk</location>
+			<title>Bistirna parore - Bhupen Hazarika (Assamese Song)</title>
+			<annotation>BISTIRNA PARORE - Bhupen HazarikaBistirna paarore Akhonkhya jonore Hahakar xuniu Nixobde nirobe Burha luit tumi Burha luit buwa kiyo? Noitikotar skhalan dekhiu Manabotar patan dekhiu Nirlajja alakh bhabe buwa kiyo? Gyanbiheen nirakgharor Khaadyabiheen nagorikor Netribiheenotat nimaat kiyo? Xohossro baarikhar unmaadonar Abhigyotare pongu manabok Xabal xongrami aaru agragami kori nutula kiyo? Byakti jodi byaktikendritXamasti jodi byaktitwarohit Tene jithil xomaajok nabhanga kiyo? Tumiye jodi Brahmare putra Xei pitritwa tene naam matra Nohole prerona nidiya kiyo? Unmatta dhoraare Kurukhetrare xoroxajyaake Alingan kora Bhishmarupi ajashra beerok Jogai nutula kiyo? For More Assamese Song Lyrics Please Visit: http://georgia-dailydiary.blogspot.sg/</annotation>
+			<info>https://www.youtube.com/playlist?list=PL81E939CC4A37CC43</info>
+			<image>https://i.ytimg.com/vi/-S2ddsO73Bk/default.jpg</image>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>17</vlc:id>
+			</extension>
+		</track>
+	</trackList>
+</playlist>
