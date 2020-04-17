@@ -10,7 +10,7 @@ Import a youtube video / playlist into VLC.
 This is a modification of https://addons.videolan.org/p/1154080/ . The original author seems incommunicado, hence submitting this separate plugin. Please submit pull requests and issues at https://github.com/vvasuki/vlc-addons/blob/master/lua-addons/playlist_youtube.luac .
 
 ##### INSTALLATION:
-- Download https://raw.githubusercontent.com/vvasuki/vlc-addons/master/lua-addons/playlist_youtube.luac or use the Download button (Some browser (Chrome...) may change the file extension for ".txt" instead of ".luac", so make sure you choose "All extensions" in the dialog box when you save the file on your computer.)
+- Download https://raw.githubusercontent.com/vvasuki/vlc-addons/master/lua-addons/playlist_youtube.luac and https://raw.githubusercontent.com/videolan/vlc/master/share/lua/playlist/youtube.lua (Some browsers (Chrome...) may change the file extension for ".txt" instead of ".luac", so make sure you choose "All extensions" in the dialog box when you save the file on your computer.)
 - put the file in the vlc /lua/playlist folder, by default (create directories if they don't exist):
   * Windows (all users): %ProgramFiles%/VideoLAN/VLC/lua/playlist
   * Windows (current user): %APPDATA%/vlc/lua/playlist
